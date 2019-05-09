@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: e81a8bcee2053524b866072018e79077
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dieMotion_0
+    21300002: dieMotion_1
+    21300004: dieMotion_2
+    21300006: dieMotion_3
+    21300008: dieMotion_4
+    21300010: dieMotion_5
+    21300012: dieMotion_6
+    21300014: dieMotion_7
+    21300016: dieMotion_8
+    21300018: dieMotion_9
+    21300020: dieMotion_10
+    21300022: dieMotion_11
+    21300024: dieMotion_12
+    21300026: dieMotion_13
+    21300028: dieMotion_14
+    21300030: dieMotion_15
+    21300032: dieMotion_16
+    21300034: dieMotion_17
+    21300036: dieMotion_18
+    21300038: dieMotion_19
+    21300040: dieMotion_20
+    21300042: dieMotion_21
+    21300044: dieMotion_22
+    21300046: dieMotion_23
+    21300048: dieMotion_24
+    21300050: dieMotion_25
+    21300052: dieMotion_26
+    21300054: dieMotion_27
+    21300056: dieMotion_28
+    21300058: dieMotion_29
+    21300060: dieMotion_30
+    21300062: dieMotion_31
+    21300064: dieMotion_32
+    21300066: dieMotion_33
+    21300068: dieMotion_34
+    21300070: dieMotion_35
+    21300072: dieMotion_36
+    21300074: dieMotion_37
+    21300076: dieMotion_38
+    21300078: dieMotion_39
+    21300080: dieMotion_40
+    21300082: dieMotion_41
+    21300084: dieMotion_42
+    21300086: dieMotion_43
+    21300088: dieMotion_44
+    21300090: dieMotion_45
+    21300092: dieMotion_46
+    21300094: dieMotion_47
+    21300096: dieMotion_48
+    21300098: dieMotion_49
+    21300100: dieMotion_50
+    21300102: dieMotion_51
+    21300104: dieMotion_52
+    21300106: dieMotion_53
+    21300108: dieMotion_54
+    21300110: dieMotion_55
+    21300112: dieMotion_56
+    21300114: dieMotion_57
+    21300116: dieMotion_58
+    21300118: dieMotion_59
+    21300120: dieMotion_60
+    21300122: dieMotion_61
+    21300124: dieMotion_62
+    21300126: dieMotion_63
+    21300128: dieMotion_64
+    21300130: dieMotion_65
+    21300132: dieMotion_66
+    21300134: dieMotion_67
+    21300136: dieMotion_68
+    21300138: dieMotion_69
+    21300140: dieMotion_70
+    21300142: dieMotion_71
+    21300144: dieMotion_72
+    21300146: dieMotion_73
+    21300148: dieMotion_74
+    21300150: dieMotion_75
+    21300152: dieMotion_76
+    21300154: dieMotion_77
+    21300156: dieMotion_78
+    21300158: dieMotion_79
+    21300160: dieMotion_80
+    21300162: dieMotion_81
+    21300164: dieMotion_82
+    21300166: dieMotion_83
+    21300168: dieMotion_84
+    21300170: dieMotion_85
+    21300172: dieMotion_86
+    21300174: dieMotion_87
+    21300176: dieMotion_88
+    21300178: dieMotion_89
+    21300180: dieMotion_90
+    21300182: dieMotion_91
+    21300184: dieMotion_92
+    21300186: dieMotion_93
+    21300188: dieMotion_94
+    21300190: dieMotion_95
+    21300192: dieMotion_96
+    21300194: dieMotion_97
+    21300196: dieMotion_98
+    21300198: dieMotion_99
+    21300200: dieMotion_100
+    21300202: dieMotion_101
+    21300204: dieMotion_102
+    21300206: dieMotion_103
+    21300208: dieMotion_104
+    21300210: dieMotion_105
+    21300212: dieMotion_106
+    21300214: dieMotion_107
+    21300216: dieMotion_108
+    21300218: dieMotion_109
+    21300220: dieMotion_110
+    21300222: dieMotion_111
+    21300224: dieMotion_112
+    21300226: dieMotion_113
+    21300228: dieMotion_114
+    21300230: dieMotion_115
+    21300232: dieMotion_116
+    21300234: dieMotion_117
+    21300236: dieMotion_118
+    21300238: dieMotion_119
+    21300240: dieMotion_120
+    21300242: dieMotion_121
+    21300244: dieMotion_122
+    21300246: dieMotion_123
+    21300248: dieMotion_124
+    21300250: dieMotion_125
+    21300252: dieMotion_126
+    21300254: dieMotion_127
+    21300256: dieMotion_128
+    21300258: dieMotion_129
+    21300260: dieMotion_130
+    21300262: dieMotion_131
+    21300264: dieMotion_132
+    21300266: dieMotion_133
+    21300268: dieMotion_134
+    21300270: dieMotion_135
+    21300272: dieMotion_136
+    21300274: dieMotion_137
+    21300276: dieMotion_138
+    21300278: dieMotion_139
+    21300280: dieMotion_140
+    21300282: dieMotion_141
+    21300284: dieMotion_142
+    21300286: dieMotion_143
+    21300288: dieMotion_144
+    21300290: dieMotion_145
+    21300292: dieMotion_146
+    21300294: dieMotion_147
+    21300296: dieMotion_148
+    21300298: dieMotion_149
+    21300300: dieMotion_150
+    21300302: dieMotion_151
+    21300304: dieMotion_152
+    21300306: dieMotion_153
+    21300308: dieMotion_154
+    21300310: dieMotion_155
+    21300312: dieMotion_156
+    21300314: dieMotion_157
+    21300316: dieMotion_158
+    21300318: dieMotion_159
+    21300320: dieMotion_160
+    21300322: dieMotion_161
+    21300324: dieMotion_162
+    21300326: dieMotion_163
+    21300328: dieMotion_164
+    21300330: dieMotion_165
+    21300332: dieMotion_166
+    21300334: dieMotion_167
+    21300336: dieMotion_168
+    21300338: dieMotion_169
+    21300340: dieMotion_170
+    21300342: dieMotion_171
+    21300344: dieMotion_172
+    21300346: dieMotion_173
+    21300348: dieMotion_174
+    21300350: dieMotion_175
+    21300352: dieMotion_176
+    21300354: dieMotion_177
+    21300356: dieMotion_178
+    21300358: dieMotion_179
+    21300360: dieMotion_180
+    21300362: dieMotion_181
+    21300364: dieMotion_182
+    21300366: dieMotion_183
+    21300368: dieMotion_184
+    21300370: dieMotion_185
+    21300372: dieMotion_186
+    21300374: dieMotion_187
+    21300376: dieMotion_188
+    21300378: dieMotion_189
+    21300380: dieMotion_190
+    21300382: dieMotion_191
+    21300384: dieMotion_192
+    21300386: dieMotion_193
+    21300388: dieMotion_194
+    21300390: dieMotion_195
+    21300392: dieMotion_196
+    21300394: dieMotion_197
+    21300396: dieMotion_198
+    21300398: dieMotion_199
+    21300400: dieMotion_200
+    21300402: dieMotion_201
+    21300404: dieMotion_202
+    21300406: dieMotion_203
+    21300408: dieMotion_204
+    21300410: dieMotion_205
+    21300412: dieMotion_206
+    21300414: dieMotion_207
+    21300416: dieMotion_208
+    21300418: dieMotion_209
+    21300420: dieMotion_210
+    21300422: dieMotion_211
+    21300424: dieMotion_212
+    21300426: dieMotion_213
+    21300428: dieMotion_214
+    21300430: dieMotion_215
+    21300432: dieMotion_216
+    21300434: dieMotion_217
+    21300436: dieMotion_218
+    21300438: dieMotion_219
+    21300440: dieMotion_220
+    21300442: dieMotion_221
+    21300444: dieMotion_222
+    21300446: dieMotion_223
+    21300448: dieMotion_224
+    21300450: dieMotion_225
+    21300452: dieMotion_226
+    21300454: dieMotion_227
+    21300456: dieMotion_228
+    21300458: dieMotion_229
+    21300460: dieMotion_230
+    21300462: dieMotion_231
+    21300464: dieMotion_232
+    21300466: dieMotion_233
+    21300468: dieMotion_234
+    21300470: dieMotion_235
+    21300472: dieMotion_236
+    21300474: dieMotion_237
+    21300476: dieMotion_238
+    21300478: dieMotion_239
+    21300480: dieMotion_240
+    21300482: dieMotion_241
+    21300484: dieMotion_242
+    21300486: dieMotion_243
+    21300488: dieMotion_244
+    21300490: dieMotion_245
+    21300492: dieMotion_246
+    21300494: dieMotion_247
+    21300496: dieMotion_248
+    21300498: dieMotion_249
+    21300500: dieMotion_250
+    21300502: dieMotion_251
+    21300504: dieMotion_252
+    21300506: dieMotion_253
+    21300508: dieMotion_254
+    21300510: dieMotion_255
+    21300512: dieMotion_256
+    21300514: dieMotion_257
+    21300516: dieMotion_258
+    21300518: dieMotion_259
+    21300520: dieMotion_260
+    21300522: dieMotion_261
+    21300524: dieMotion_262
+    21300526: dieMotion_263
+    21300528: dieMotion_264
+    21300530: dieMotion_265
+    21300532: dieMotion_266
+    21300534: dieMotion_267
+    21300536: dieMotion_268
+    21300538: dieMotion_269
+    21300540: dieMotion_270
+    21300542: dieMotion_271
+    21300544: dieMotion_272
+    21300546: dieMotion_273
+    21300548: dieMotion_274
+    21300550: dieMotion_275
+    21300552: dieMotion_276
+    21300554: dieMotion_277
+    21300556: dieMotion_278
+    21300558: dieMotion_279
+    21300560: dieMotion_280
+    21300562: dieMotion_281
+    21300564: dieMotion_282
+    21300566: dieMotion_283
+    21300568: dieMotion_284
+    21300570: dieMotion_285
+    21300572: dieMotion_286
+    21300574: dieMotion_287
+    21300576: dieMotion_288
+    21300578: dieMotion_289
+    21300580: dieMotion_290
+    21300582: dieMotion_291
+    21300584: dieMotion_292
+    21300586: dieMotion_293
+    21300588: dieMotion_294
+    21300590: dieMotion_295
+    21300592: dieMotion_296
+    21300594: dieMotion_297
+    21300596: dieMotion_298
+    21300598: dieMotion_299
+    21300600: dieMotion_300
+    21300602: dieMotion_301
+    21300604: dieMotion_302
+    21300606: dieMotion_303
+    21300608: dieMotion_304
+    21300610: dieMotion_305
+    21300612: dieMotion_306
+    21300614: dieMotion_307
+    21300616: dieMotion_308
+    21300618: dieMotion_309
+    21300620: dieMotion_310
+    21300622: dieMotion_311
+    21300624: dieMotion_312
+    21300626: dieMotion_313
+    21300628: dieMotion_314
+    21300630: dieMotion_315
+    21300632: dieMotion_316
+    21300634: dieMotion_317
+    21300636: dieMotion_318
+    21300638: dieMotion_319
+    21300640: dieMotion_320
+    21300642: dieMotion_321
+    21300644: dieMotion_322
+    21300646: dieMotion_323
+    21300648: dieMotion_324
+    21300650: dieMotion_325
+    21300652: dieMotion_326
+    21300654: dieMotion_327
+    21300656: dieMotion_328
+    21300658: dieMotion_329
+    21300660: dieMotion_330
+    21300662: dieMotion_331
+    21300664: dieMotion_332
+    21300666: dieMotion_333
+    21300668: dieMotion_334
+    21300670: dieMotion_335
+    21300672: dieMotion_336
+    21300674: dieMotion_337
+    21300676: dieMotion_338
+    21300678: dieMotion_339
+    21300680: dieMotion_340
+    21300682: dieMotion_341
+    21300684: dieMotion_342
+    21300686: dieMotion_343
+    21300688: dieMotion_344
+    21300690: dieMotion_345
+    21300692: dieMotion_346
+    21300694: dieMotion_347
+    21300696: dieMotion_348
+    21300698: dieMotion_349
+    21300700: dieMotion_350
+    21300702: dieMotion_351
+    21300704: dieMotion_352
+    21300706: dieMotion_353
+    21300708: dieMotion_354
+    21300710: dieMotion_355
+    21300712: dieMotion_356
+    21300714: dieMotion_357
+    21300716: dieMotion_358
+    21300718: dieMotion_359
+    21300720: dieMotion_360
+    21300722: dieMotion_361
+    21300724: dieMotion_362
+    21300726: dieMotion_363
+    21300728: dieMotion_364
+    21300730: dieMotion_365
+    21300732: dieMotion_366
+    21300734: dieMotion_367
+    21300736: dieMotion_368
+    21300738: dieMotion_369
+    21300740: dieMotion_370
+    21300742: dieMotion_371
+    21300744: dieMotion_372
+    21300746: dieMotion_373
+    21300748: dieMotion_374
+    21300750: dieMotion_375
+    21300752: dieMotion_376
+    21300754: dieMotion_377
+    21300756: dieMotion_378
+    21300758: dieMotion_379
+    21300760: dieMotion_380
+    21300762: dieMotion_381
+    21300764: dieMotion_382
+    21300766: dieMotion_383
+    21300768: dieMotion_384
+    21300770: dieMotion_385
+    21300772: dieMotion_386
+    21300774: dieMotion_387
+    21300776: dieMotion_388
+    21300778: dieMotion_389
+    21300780: dieMotion_390
+    21300782: dieMotion_391
+    21300784: dieMotion_392
+    21300786: dieMotion_393
+    21300788: dieMotion_394
+    21300790: dieMotion_395
+    21300792: dieMotion_396
+    21300794: dieMotion_397
+    21300796: dieMotion_398
+    21300798: dieMotion_399
+    21300800: dieMotion_400
+    21300802: dieMotion_401
+    21300804: dieMotion_402
+    21300806: dieMotion_403
+    21300808: dieMotion_404
+    21300810: dieMotion_405
+    21300812: dieMotion_406
+    21300814: dieMotion_407
+    21300816: dieMotion_408
+    21300818: dieMotion_409
+    21300820: dieMotion_410
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dieMotion_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dceccd795f13b64abefa7d321607529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072548cbac02af749a7fa3dd6c0bcec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80aca544120d8f48865316c438f5b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fdd80344b3dab48944db1508e40f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d11ecc1c6f338a49a355d3454dd19cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_5
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317fae50ebfe894f9d33fd057e3c9d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_6
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd2ad9e6c37b04e9f896e1954e38da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe553902464314e94e0676060b7cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d7b9007df5eb4bb43986cc37ec446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b64cf861b4cb3469ed32c786b05d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682a53ba8ee76b24997bf8fe4a7b1be4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da9f25634828944821103c87e2fb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a405d0b805c14b9baa992e854239a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d892dfa59d8a5c24faf52bedf347f2f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ca2a58a9701a9489b7f9bee8d96cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca79fe62bff611f44827c27671fd1352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb53ca073f905a4e952eac71270c249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1eb39ab7766744cb0b2ab12c211b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b2665b3b895740b0e2f7fbdebcaae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f92e86598926a4aaff7159a15a3228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be458169514248b44a322c4818169337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb27a27ecfa2c140b36aa6ff0120ac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9db79633db798448bb84ac1e539b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6782b4ffa35484ca6a9a2d125088a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb089fcbc835ab44fa4b1fffdd7748a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a41899bdede3549a32722af05a9865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9f616fc256f347afe7ee5ffe766c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77a911358a19848a76d45e584e76ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085329ba2084af8459f019627e758764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_29
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999aa2ccaccdc2c4c9ad256037cbf4f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c5abc11aa2a2b428df78b48b7025f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19de8688303fa94ca727980edb0b48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135600124b0601b4b9f2a3b28b82ac76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a8a003211499848b4b98d98cfec1d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc5ea6d1115b64aaba9706efe1bae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db64492425d91604eab8a112b98c09cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee72c9b76068242b13576d522933ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62313258a707b994f891fb0ed903fb6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_38
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea32cd7e1ae3240823e896804db549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b31f380e94fb3f40b0291ebfa81cf1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccfd0c9a06832645b130edf7365427e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53a11d1c3d7e7048a3c05d7650ba3ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53234ff39623b854690f76a06f2a1ee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_43
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa30132fef5394088703860b8e7155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af002311dc2824abe7dba02d7b469a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b861f053d555042b14a62d3c1a9c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27837e23b59e942a614e789e216310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee824498e4afa54280576a00dae715f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf9f1650ac406e4e8beaf45447aa92e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26cc8cd3d944e4ea1f7f1ac973b013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65826f3ecade74a4798873c3ac98e658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b68eb1ab174204ca8eeda0547dfc1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf0bccbad7b414db2e4e912535a0da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e786bf0983f7564f9fe52365b3a51c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_54
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a41540e9c93d4fbdf3d0a6d0cfb89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9719fb7276c434e8e00414b1632b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caee56c2871e3a468a42071254d4d39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6710df0796344eade23870b662bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f560648e10f154db1e1b86a5509768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_59
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6f6f5266f1d24d8dad38870892261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b11270fc100f48bbdd34b5c5c07e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_61
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed007650e1e8c458850e2e8846f8f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dieMotion_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab2d31553e28643acf8ecc167b755d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: afc32827978e48b45a99d0cfdd012e16
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
